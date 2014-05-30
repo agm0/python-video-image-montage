@@ -1,0 +1,4 @@
+Requires: Python 2, ImageMagick(http://www.imagemagick.org/) Wand (pip install 2), OpenCV(http://opencv.org/)
+
+Usage: python imagemontage.py [filename]
+
